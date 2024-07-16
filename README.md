@@ -2,7 +2,7 @@
 
 Repository for the following COLM 2024 paper:
 
-"Trust No Bot: Discovering Personal  Disclosures in Human-LLM Conversations in the Wild"  
+**Trust No Bot: Discovering Personal  Disclosures in Human-LLM Conversations in the Wild**   
 Niloofar Mireshghallah,* Maria Antoniak,* Yash More,* Yejin Choi, Golnoosh Farnadi  
 *equal contribution
 
