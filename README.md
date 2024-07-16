@@ -1,6 +1,10 @@
 # ChatGPT-personal-disclosures
-Repository for the COLM 2024 paper 'Trust No Bot: Discovering Personal  Disclosures in Human-LLM Conversations in the Wild'
 
+Repository for the following COLM 2024 paper:
+
+"Trust No Bot: Discovering Personal  Disclosures in Human-LLM Conversations in the Wild"  
+Niloofar Mireshghallah* Maria Antoniak* Yash More* Yejin Choi Golnoosh Farnadi  
+*equal contribution
 
 Code coming soon.
 
