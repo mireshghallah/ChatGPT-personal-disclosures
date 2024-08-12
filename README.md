@@ -6,6 +6,4 @@ Repository for the following COLM 2024 paper:
 Niloofar Mireshghallah,* Maria Antoniak,* Yash More,* Yejin Choi, Golnoosh Farnadi  
 *equal contribution
 
-Code coming soon.
-
 Our data and annotations are available [here](https://drive.google.com/drive/folders/1_-Vluq_ugtEuxZ43uRMk29G30ZehN_Eq?usp=sharing).
